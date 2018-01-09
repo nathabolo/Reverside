@@ -1,7 +1,7 @@
-# Registration and Login Example with Spring Security, Spring Boot, Spring Data JPA, HSQL, JSP
+# Time sheet and leave form Example with Spring Security, Spring Boot, Spring Data JPA, HSQL, JSP/Angular 4
 
 ## Guide
-https://hellokoding.com/registration-and-login-example-with-spring-security-spring-boot-spring-data-jpa-hsql-jsp/
+www.reverside.co.za
 
 ## Prerequisites
 - JDK 1.7 or later
@@ -12,7 +12,7 @@ https://hellokoding.com/registration-and-login-example-with-spring-security-spri
 - Spring Boot
 - Spring Data JPA
 - Maven
-- JSP
+- JSP/Angular 4
 - HSQL
 
 ## Run
